@@ -1,0 +1,38 @@
+Hello choose an option
+Press 1 - Make a drink
+Press 2 - Set up time to make a drink
+Press 3 - Order a drink from coffee shop
+2
+Set up time to make a drink
+Choose a type of drink: 
+Press 1 - Coffee
+Press 2 - Tea
+1
+Please enter the time with (AM/PM): 
+6 oclock AM
+Please choose a size: 
+Press 1 - short
+Press 2 - tall
+Press 3 - grande
+Press 4 - venti
+3
+Choose the temperature of beverage
+Press 1 - Extra cold (iced)
+Press 2 - Cool
+Press 3 - Hot
+Press 4 - Extra Hot
+3
+What type of Coffee do you want?
+Press 1 - expresso
+Press 2 - latte
+Press 3 - cappuccino
+Press 4 - mocha
+2
+How many shots of expresso would you like?
+3
+Foam or no foam
+Press 1 - foam
+Press 2 - no foam
+1
+Drink is set to be made at 6 oclock AM. A grande, hot, 3 shots of expresso, with foam, latte.
+Thanks for using iCoffee

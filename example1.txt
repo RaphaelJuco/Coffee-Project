@@ -1,0 +1,56 @@
+Hello choose an option
+Press 1 - Make a drink
+Press 2 - Set up time to make a drink
+Press 3 - Order a drink from coffee shop
+1
+Make a drink
+Choose a type of drink: 
+Press 1 - Coffee
+Press 2 - Tea
+2
+Please choose a size: 
+Press 1 - small
+Press 2 - medium
+Press 3 - large
+3
+Choose the temperature of beverage
+Press 1 - Extra cold (iced)
+Press 2 - Cool
+Press 3 - Hot
+Press 4 - Extra Hot
+1
+What type of Tea do you want?
+Press 1 - green
+Press 2 - black
+Press 3 - herbal
+Press 4 - white
+1
+What would you like on your tea?
+Press 1 - lemon
+Press 2 - honey
+Press 3 - half and half
+Press 4 - sugar
+Press 5 - no additives
+1
+Is that all? (y or n)
+n
+What would you like on your tea?
+Press 1 - lemon
+Press 2 - honey
+Press 3 - half and half
+Press 4 - sugar
+Press 5 - no additives
+2
+Is that all? (y or n)
+n
+What would you like on your tea?
+Press 1 - lemon
+Press 2 - honey
+Press 3 - half and half
+Press 4 - sugar
+Press 5 - no additives
+4
+Is that all? (y or n)
+y
+A large, extra cold (iced), green tea, with lemon, with honey, with sugar,  Coming right up.
+Thanks for using iCoffee
